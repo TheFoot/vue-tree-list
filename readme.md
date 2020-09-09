@@ -2,6 +2,10 @@
 
 # vue-tree-list
 
+---
+
+## NOTE: This is forked from https://github.com/ParadeTo/vue-tree-list - needed changes and got bored waiting :)
+
 A vue component for tree structure. Support adding treenode/leafnode, editing node's name and dragging.
 
 ![vue-tree-demo.gif](https://raw.githubusercontent.com/ParadeTo/vue-tree-list/master/img/demo.gif)
