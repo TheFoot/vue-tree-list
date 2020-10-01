@@ -289,6 +289,10 @@ export default {
       })
     },
 
+    setActive(id) {
+      this.rootNode.selectedId = id
+    },
+
     addChild(isLeaf) {
       const name = isLeaf ? this.defaultLeafNodeName : this.defaultTreeNodeName
       this.expanded = true
